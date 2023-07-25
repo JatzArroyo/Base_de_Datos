@@ -2,7 +2,7 @@
 
 ESTA ES MI BASE https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/0
 
-BASE CREADA: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/2
+BASE ESTRUCTURADA: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/2
 
 BASE MODIFICADA (ALTER-DROP): https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/3
 

@@ -67,5 +67,5 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
-![image](https://github.com/JatzArroyo/Base_de_Datos/assets/111532416/f61a7e23-08aa-4174-bd8b-6449cd8b8c34)
+![image](https://github.com/JatzArroyo/Base_de_Datos/assets/111532416/e5027455-8835-4ab4-ad26-0d44d85b392a)
 

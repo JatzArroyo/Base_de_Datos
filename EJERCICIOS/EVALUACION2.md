@@ -52,6 +52,9 @@ Tienda de informática
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
 
+ENLACE BASE DE DATOS: https://www.db-fiddle.com/f/hisUjKW9P691swKpTyu2xV/0
+
+
 
 
 Modelo entidad/relación

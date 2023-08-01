@@ -12,6 +12,7 @@ BASE CON GRUPOS: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/5
 
 BASE CON GRUPOS2: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/6
 
+
 CONSULTAS: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/7
 
 

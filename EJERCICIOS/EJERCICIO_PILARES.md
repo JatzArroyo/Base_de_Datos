@@ -13,7 +13,7 @@ BASE CON GRUPOS: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/5
 BASE CON GRUPOS2: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/6
 
 
-CONSULTAS: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/7
+CONSULTAS 1: https://www.db-fiddle.com/f/bq11d6mmDSPUW2YPNxAumk/7
 
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)

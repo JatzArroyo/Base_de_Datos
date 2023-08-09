@@ -8,10 +8,19 @@ su esquema
 Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
+   
+Data Warehouse es una arquitectura de almacenamiento de datos que permite organizar, comprender y utilizar datos.
+Un data warehouse se aloja en un servidor corporativo o cada vez más, en la nube. Los datos de diferentes aplicaciones de procesamiento de transacciones Online (OLTP) y otras fuentes se extraen selectivamente para su uso por aplicaciones analíticas y de consultas por usuarios.
 
-2. Realiza un diseño del modelo en estrella (valor 2)
+3. Realiza un diseño del modelo en estrella (valor 2)
+   
+   ![image](https://github.com/JatzArroyo/Base_de_Datos/assets/111532416/88ecc764-e2a8-414d-8f24-fae2e14cdd67)
 
-3. Realiza un diseño del modelo copo de nieve (valor 2)
+   
+
+5. Realiza un diseño del modelo copo de nieve (valor 2)
+   
+   ![image](https://github.com/JatzArroyo/Base_de_Datos/assets/111532416/f21d9693-1f29-4236-a7bb-6e392c7fb212)
 
 
 ## Práctica 7

@@ -26,11 +26,9 @@ BASE SUBCONSULTAS-----https://www.db-fiddle.com/f/w95XuFYJ8eZJj6CTWgrRqK/0
 
 TRIGGERS------ [https://www.db-fiddle.com/f/cvxxzQQ8ELMLJYYF5xMn4x/0](https://www.db-fiddle.com/f/dsW1vgdNrdtYpYxYEMGtKq/0)
 
+TRIGGER----   https://www.db-fiddle.com/f/44aFxpvqA3RoMj8TECeji3/0
                
-               https://www.db-fiddle.com/f/44aFxpvqA3RoMj8TECeji3/0
-               
-               
-               ejemplo profe------ https://www.db-fiddle.com/f/iAaG41caVSF8yoQdczVCz2/4
+EJEMPLO PROFE------ https://www.db-fiddle.com/f/iAaG41caVSF8yoQdczVCz2/4
 
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)

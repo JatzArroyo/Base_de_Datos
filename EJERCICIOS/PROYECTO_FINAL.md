@@ -32,7 +32,7 @@ un código de categoría único.
 
 
 
-https://www.db-fiddle.com/f/ke75fgE1BCtEzHrQiKzwH3/0
+https://www.db-fiddle.com/f/ke75fgE1BCtEzHrQiKzwH3/1
 
 ![image](https://github.com/JatzArroyo/Base_de_Datos/assets/111532416/c2c6dc0a-d979-4fb1-8c62-f726a092ae77)
 

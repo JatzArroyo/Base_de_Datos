@@ -32,6 +32,7 @@ TRIGGER----   https://www.db-fiddle.com/f/44aFxpvqA3RoMj8TECeji3/0
                
 EJEMPLO PROFE------ https://www.db-fiddle.com/f/iAaG41caVSF8yoQdczVCz2/4
 
+
 TIENDA ---- https://www.db-fiddle.com/f/x3nyzsY8XxJjRUxadJeM1i/42
 
 
